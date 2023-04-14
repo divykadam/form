@@ -1,3 +1,8 @@
+Form Project
+(class & function Component)
+1) class component use with JSON server.
+2) function component use with Redux.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
